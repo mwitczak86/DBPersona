@@ -1,7 +1,7 @@
 # DBPersona - Python data generator with PESEL number.
 This is a Python console application that generates custom data for filling a MySQL database. The generated data includes PESEL numbers, which are unique identification numbers used in Poland. The script has been tested with up to 10,000 unique values, although it has the capability to generate more records. However, due to limitations in the script, it is only able to generate up to 10,000 unique values at a time. The generated data can be saved to a CSV file for use in the MySQL database.
 ## How does it work?
-* <b>Provide the required number of records.</b>
+* <b>Provide the required number of records.</b><br>
 ![Welcome screen](/Demo_images/dbpersona.jpg)
 * <b>Records created and saved into CSV file.</b>
 ![Data_file](/Demo_images/dbpersona_data.jpg)
