@@ -4,7 +4,7 @@ This is a Python console application that generates custom data for filling a My
 * <b>Provide the required number of records.</b><br>
 ![Welcome screen](/Demo_images/dbpersona.jpg)
 * <b>Records created and saved into CSV file.</b>
-![Data_file](/Demo_images/dbpersona_data.jpg)
+
 * <b> Unique PESEL values </b>
 PESEL is an acronym that stands for Powszechny Elektroniczny System Ewidencji Ludności, which means Universal Electronic System for Registration of the Population in Polish. It is a unique identification number used in Poland for tracking the personal information of individuals, including their name, date of birth, place of birth, and gender. PESEL numbers are used for a variety of purposes in Poland, such as for social security, healthcare, and voting. They are assigned to all Polish citizens and legal residents at birth or upon arrival in Poland.
 PESEL numbers meaning:
